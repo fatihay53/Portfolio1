@@ -59,4 +59,12 @@ Updated GitHub added these infomations:
 7. Follow a few of your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
 
 
+![portfolio] (./assets/photo/portfolio.jpg)
+
+![about] (./assets/photo/about.jpg)
+
+![contact] (./assets/photo/contact.jpg)
+
+
+
 
