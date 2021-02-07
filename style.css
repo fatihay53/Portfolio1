@@ -1,0 +1,155 @@
+body{
+background-image: url(assets/images/bg-photo.jpg) !important;
+}
+.container {
+  margin-bottom: 100px !important;
+
+}
+
+/* .nav{
+  margin-top: 50px;
+
+  align-items: center !important;
+  flex-wrap: nowrap;
+}
+.nav-link{
+color: red;
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+
+} */
+
+
+
+.nav-link{ 
+    margin-top: 25px;
+    transition: transform .8s; 
+    z-index: 0;
+    color:red !important;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 25px;
+    font-family: 'Open Sans', sans-serif;
+  
+   
+}
+
+.nav-link:hover{
+
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5); 
+  z-index: 1;
+}
+li:hover,p2:hover,p3:hover{
+
+  -ms-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1); 
+  z-index: 1;
+  transition: transform .8s;
+  color: red;
+}
+
+.card {
+  margin-bottom: 10px;
+  /* background-color: transparent; */
+}
+.card0{
+  background-color:  rgb(247, 247, 247,0.5);
+  border-radius: 25%;
+ /* max-width: 80%; */
+}
+
+#card1{
+ margin: auto;
+}
+.col-3{
+opacity: 1.0 !important;
+}
+.row{
+  margin-top: 100px;
+  width: fit-content;
+  margin-bottom: 100px;
+  height: fit-content;
+}
+.col1{
+  width: 400px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+@media only screen and (max-width: 1025px) {   /* Small devices (portrait tablets and large phones) */
+  .col-6{
+width: 100%;
+  }
+     
+  }
+  @media only screen and (max-width: 400px) {   /* Small devices (portrait tablets and large phones) */
+    nav{
+      width: 100%;
+    }
+    .col-3{
+  width: 100%;
+    }
+       
+    }
+  li{
+    font-family: 'Open Sans', sans-serif;
+  }
+  .mb-3{
+    color: black;
+    font-family: 'Open Sans', sans-serif !important;
+  }
+  
+
+#smallPc:hover{
+
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5); 
+  z-index: 1;
+  transition: transform .8s;
+}
+.segment{
+  border-radius: 50px !important;
+  width: fit-content;  
+  border-color: red;
+}
+li{
+  font-family: 'Open Sans', sans-serif;
+  line-height: 40px;
+  font-size: 20px;
+}
+p1{
+  margin-top: 150px !important;
+}
+#gitt{
+   
+  height: 50px;
+  width: 50px;
+  font-size: 35px;
+  color: black !important ;
+ 
+ 
+}
+#git{
+ 
+  text-align: center !important;
+  text-decoration: none;
+  margin-top: 20px;
+  font-size: 18px;
+ 
+}
+
+#gitt { 
+   margin-left: 15px;
+  
+   margin-top: 40px;
+   margin-bottom: -20px;
+   transition: transform .8s; 
+   }
+#gitt:hover{
+   -ms-transform: scale(1.9);
+ -webkit-transform: scale(1.9);
+ transform: scale(1.9); 
+}
