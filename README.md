@@ -7,7 +7,7 @@
 
 * Added an updated LinkedIn profile
 
-Portfolio includes :
+Portfolio includes :  
 
 1. Display your full name, email, and phone number
 
