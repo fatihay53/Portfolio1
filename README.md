@@ -13,18 +13,18 @@
 ## Demo:
 
 <p align="center">
-<img  src="./assets/photo/about.jpg" width="50%" height="50%">
+<img  src="./assets/photo/about.jpg" width="65%" height="65%">
 </p>
 
 <p align="center">
-<img src="./assets/photo/contact.jpg" width="50%" height="50%">
+<img src="./assets/photo/contact.jpg" width="65%" height="65%">
 </p>
 
 <p align="center">
-<img src="./assets/photo/portfolio1.jpg" width="50%" height="50%">
+<img src="./assets/photo/portfolio1.jpg" width="65%" height="65%">
 </p>
 <p align="center">
-<img src="./assets/photo/portfolio2.jpg" width="50%" height="50%">
+<img src="./assets/photo/portfolio2.jpg" width="65%" height="65%">
 </p>
 
 
