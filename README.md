@@ -34,7 +34,7 @@
 
 [![Deployed](https://user-images.githubusercontent.com/77207167/111052614-58e7a100-842a-11eb-834d-21aa5fa25e2e.png)][H]
 
-[H]: https://fatihay53.github.io/Portfolio/
+[H]: https://fatihay53.github.io/Portfolio1/
 
 ## Questions:
    
